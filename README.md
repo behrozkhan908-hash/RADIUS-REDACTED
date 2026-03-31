@@ -1,3 +1,4 @@
+index.html
 # RADIUS REDACTED ⭕
 
 **RADIUS REDACTED** is a high-octane, top-down tactical battlegrounds game built entirely with HTML5 Canvas and JavaScript. Set in a minimalist, "classified" digital arena, players must outmaneuver AI operatives while the combat perimeter—the **Radius**—collapses around them.
